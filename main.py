@@ -1,4 +1,4 @@
-password='removed_using_filter_branch'
+password='removed'
 
 another_password='ABCD'
 
